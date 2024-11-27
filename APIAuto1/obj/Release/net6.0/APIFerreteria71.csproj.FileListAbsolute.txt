@@ -1,0 +1,106 @@
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\appsettings.Development.json
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\appsettings.json
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\APIFerreteria71.exe
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\APIFerreteria71.deps.json
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\APIFerreteria71.runtimeconfig.json
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\APIFerreteria71.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\APIFerreteria71.pdb
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\System.Data.SqlClient.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\ClasesFerreteria.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\ClasesFerreteria.pdb
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.csproj.AssemblyReference.cache
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.AssemblyInfoInputs.cache
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.AssemblyInfo.cs
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.csproj.CoreCompileInputs.cache
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\staticwebassets\msbuild.APIFerreteria71.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\staticwebassets\msbuild.build.APIFerreteria71.props
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIFerreteria71.props
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.APIFerreteria71.props
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\scopedcss\bundle\APIFerreteria71.styles.css
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.csproj.CopyComplete
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\refint\APIFerreteria71.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.pdb
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.genruntimeconfig.cache
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\ref\APIFerreteria71.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Scrutor.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\luisa\source\repos\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\appsettings.Development.json
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\appsettings.json
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\APIFerreteria71.exe
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\APIFerreteria71.deps.json
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\APIFerreteria71.runtimeconfig.json
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\APIFerreteria71.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\APIFerreteria71.pdb
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Scrutor.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\System.Data.SqlClient.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\ClasesFerreteria.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\bin\Release\net6.0\ClasesFerreteria.pdb
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.csproj.AssemblyReference.cache
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.AssemblyInfoInputs.cache
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.AssemblyInfo.cs
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.csproj.CoreCompileInputs.cache
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.MvcApplicationPartsAssemblyInfo.cs
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.MvcApplicationPartsAssemblyInfo.cache
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\staticwebassets\msbuild.APIFerreteria71.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\staticwebassets\msbuild.build.APIFerreteria71.props
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIFerreteria71.props
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.APIFerreteria71.props
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\staticwebassets.pack.json
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\staticwebassets.build.json
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\staticwebassets.development.json
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\scopedcss\bundle\APIFerreteria71.styles.css
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.csproj.CopyComplete
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\refint\APIFerreteria71.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.pdb
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\APIFerreteria71.genruntimeconfig.cache
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\APIFerreteria71\obj\Release\net6.0\ref\APIFerreteria71.dll

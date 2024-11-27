@@ -1,0 +1,24 @@
+C:\Users\luisa\source\repos\FerreteriaStark\ClasesFerreteria\bin\Release\net6.0\ClasesFerreteria.deps.json
+C:\Users\luisa\source\repos\FerreteriaStark\ClasesFerreteria\bin\Release\net6.0\ClasesFerreteria.dll
+C:\Users\luisa\source\repos\FerreteriaStark\ClasesFerreteria\bin\Release\net6.0\ClasesFerreteria.pdb
+C:\Users\luisa\source\repos\FerreteriaStark\ClasesFerreteria\obj\Release\net6.0\ClasesFerreteria.csproj.AssemblyReference.cache
+C:\Users\luisa\source\repos\FerreteriaStark\ClasesFerreteria\obj\Release\net6.0\ClasesFerreteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\source\repos\FerreteriaStark\ClasesFerreteria\obj\Release\net6.0\ClasesFerreteria.AssemblyInfoInputs.cache
+C:\Users\luisa\source\repos\FerreteriaStark\ClasesFerreteria\obj\Release\net6.0\ClasesFerreteria.AssemblyInfo.cs
+C:\Users\luisa\source\repos\FerreteriaStark\ClasesFerreteria\obj\Release\net6.0\ClasesFerreteria.csproj.CoreCompileInputs.cache
+C:\Users\luisa\source\repos\FerreteriaStark\ClasesFerreteria\obj\Release\net6.0\ClasesFerreteria.dll
+C:\Users\luisa\source\repos\FerreteriaStark\ClasesFerreteria\obj\Release\net6.0\refint\ClasesFerreteria.dll
+C:\Users\luisa\source\repos\FerreteriaStark\ClasesFerreteria\obj\Release\net6.0\ClasesFerreteria.pdb
+C:\Users\luisa\source\repos\FerreteriaStark\ClasesFerreteria\obj\Release\net6.0\ref\ClasesFerreteria.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\ClasesFerreteria\bin\Release\net6.0\ClasesFerreteria.deps.json
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\ClasesFerreteria\bin\Release\net6.0\ClasesFerreteria.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\ClasesFerreteria\bin\Release\net6.0\ClasesFerreteria.pdb
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\ClasesFerreteria\obj\Release\net6.0\ClasesFerreteria.csproj.AssemblyReference.cache
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\ClasesFerreteria\obj\Release\net6.0\ClasesFerreteria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\ClasesFerreteria\obj\Release\net6.0\ClasesFerreteria.AssemblyInfoInputs.cache
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\ClasesFerreteria\obj\Release\net6.0\ClasesFerreteria.AssemblyInfo.cs
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\ClasesFerreteria\obj\Release\net6.0\ClasesFerreteria.csproj.CoreCompileInputs.cache
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\ClasesFerreteria\obj\Release\net6.0\ClasesFerreteria.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\ClasesFerreteria\obj\Release\net6.0\refint\ClasesFerreteria.dll
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\ClasesFerreteria\obj\Release\net6.0\ClasesFerreteria.pdb
+D:\Carpeta de respaldo del disco e\Clases del 7-1\Desarrollo web avanz\Trabajos en Visual studio\FerreteriaStark\ClasesFerreteria\obj\Release\net6.0\ref\ClasesFerreteria.dll

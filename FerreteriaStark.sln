@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIFerreteria71", "APIFerreteria71\APIFerreteria71.csproj", "{7C625984-A4B3-487A-8414-F398B1983949}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasesAutoCtr", "ClasesFerreteria\ClasesAutoCtr.csproj", "{F7A5D4A1-B5E4-4E6D-B6BD-BE0A9AB5A2D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C625984-A4B3-487A-8414-F398B1983949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C625984-A4B3-487A-8414-F398B1983949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C625984-A4B3-487A-8414-F398B1983949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C625984-A4B3-487A-8414-F398B1983949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A5D4A1-B5E4-4E6D-B6BD-BE0A9AB5A2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A5D4A1-B5E4-4E6D-B6BD-BE0A9AB5A2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A5D4A1-B5E4-4E6D-B6BD-BE0A9AB5A2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A5D4A1-B5E4-4E6D-B6BD-BE0A9AB5A2D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4F8C81B-50D1-4338-8E85-CF8E784EF1B6}
+	EndGlobalSection
+EndGlobal
